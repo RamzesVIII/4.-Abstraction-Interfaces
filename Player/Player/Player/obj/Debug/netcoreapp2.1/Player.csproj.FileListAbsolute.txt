@@ -1,0 +1,11 @@
+d:\C#\Programming\C# practice\4.-Abstraction-Interfaces\Player\Player\Player\bin\Debug\netcoreapp2.1\Player.deps.json
+d:\C#\Programming\C# practice\4.-Abstraction-Interfaces\Player\Player\Player\bin\Debug\netcoreapp2.1\Player.runtimeconfig.json
+d:\C#\Programming\C# practice\4.-Abstraction-Interfaces\Player\Player\Player\bin\Debug\netcoreapp2.1\Player.runtimeconfig.dev.json
+d:\C#\Programming\C# practice\4.-Abstraction-Interfaces\Player\Player\Player\bin\Debug\netcoreapp2.1\Player.dll
+d:\C#\Programming\C# practice\4.-Abstraction-Interfaces\Player\Player\Player\bin\Debug\netcoreapp2.1\Player.pdb
+d:\C#\Programming\C# practice\4.-Abstraction-Interfaces\Player\Player\Player\obj\Debug\netcoreapp2.1\Player.csprojAssemblyReference.cache
+d:\C#\Programming\C# practice\4.-Abstraction-Interfaces\Player\Player\Player\obj\Debug\netcoreapp2.1\Player.csproj.CoreCompileInputs.cache
+d:\C#\Programming\C# practice\4.-Abstraction-Interfaces\Player\Player\Player\obj\Debug\netcoreapp2.1\Player.AssemblyInfoInputs.cache
+d:\C#\Programming\C# practice\4.-Abstraction-Interfaces\Player\Player\Player\obj\Debug\netcoreapp2.1\Player.AssemblyInfo.cs
+d:\C#\Programming\C# practice\4.-Abstraction-Interfaces\Player\Player\Player\obj\Debug\netcoreapp2.1\Player.dll
+d:\C#\Programming\C# practice\4.-Abstraction-Interfaces\Player\Player\Player\obj\Debug\netcoreapp2.1\Player.pdb
